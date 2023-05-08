@@ -1,7 +1,7 @@
 {
   "name": "node-torrent.js",
   "description": "Collection of utilities to manipulate torrents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": {
     "name": "TeamCM",
