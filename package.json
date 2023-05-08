@@ -1,5 +1,5 @@
 {
-  "name": "torrent.js",
+  "name": "node-torrent.js",
   "description": "Collection of utilities to manipulate torrents",
   "version": "1.0.0",
   "main": "index.js",
