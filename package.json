@@ -8,7 +8,7 @@
     "url": "https://github.com/TeamCM/"
   },
   "homepage": "https://github.com/TeamCM/torrent.js",
-  "categories": [
+  "keywords": [
     "torrent",
     "p2p",
     "bittorrent",

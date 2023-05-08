@@ -331,7 +331,6 @@ class PeerClient extends EventEmitter{
             this.emit("keepAlive");
         }else{ // opcode
             const opcode = buf.readUInt8();
-            console.log(opcode, length);
             switch(opcode){
                 case 0:
                     this.#info.peer_choking = true;
