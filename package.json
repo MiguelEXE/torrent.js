@@ -1,0 +1,21 @@
+{
+  "name": "torrent.js",
+  "description": "Collection of utilities to manipulate torrents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "TeamCM",
+    "url": "https://github.com/TeamCM/"
+  },
+  "categories": [
+    "torrent",
+    "p2p",
+    "bittorrent",
+    "swarm",
+    "download"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "smart-buffer": "^4.2.0"
+  }
+}
